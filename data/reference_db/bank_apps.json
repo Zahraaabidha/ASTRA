@@ -1,0 +1,86 @@
+{
+  "com.sbi.SBIFreedomPlus": {
+    "bank": "State Bank of India",
+    "name": "YONO SBI",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["sbi", "yono", "state bank", "yono sbi"]
+  },
+  "com.boi.ua.android": {
+    "bank": "Bank of India",
+    "name": "BOI Mobile",
+    "cert_hash_sha256": "018672474e1b89cfcef70ffd3f96ef40c2502ec7564213a072b62d7aabb962f9",
+    "aliases": ["bank of india", "boi mobile", "boi"]
+  },
+  "com.snapwork.hdfc": {
+    "bank": "HDFC Bank",
+    "name": "HDFC Bank MobileBanking",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["hdfc", "hdfc bank", "hdfc mobile"]
+  },
+  "com.csam.icici.bank.imobile": {
+    "bank": "ICICI Bank",
+    "name": "iMobile Pay",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["icici", "icici bank", "imobile"]
+  },
+  "com.axis.mobile": {
+    "bank": "Axis Bank",
+    "name": "Axis Mobile",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["axis bank", "axis credit card", "axis mobile", "axis"]
+  },
+  "com.pnb.mbanking": {
+    "bank": "Punjab National Bank",
+    "name": "PNB ONE",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["pnb", "punjab national", "pnb one"]
+  },
+  "com.union.UBI_MobileApp": {
+    "bank": "Union Bank of India",
+    "name": "Union Bank Mobile",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["union bank", "ubi mobile"]
+  },
+  "com.canarabank.mobility": {
+    "bank": "Canara Bank",
+    "name": "Canara ai1",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["canara", "canara bank", "canara ai1"]
+  },
+  "com.kotak.mobilebanking": {
+    "bank": "Kotak Mahindra Bank",
+    "name": "Kotak Mobile Banking",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["kotak", "kotak bank", "kotak mahindra"]
+  },
+  "com.idbi.mobilebanking": {
+    "bank": "IDBI Bank",
+    "name": "IDBI Bank Go Mobile+",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["idbi", "idbi bank"]
+  },
+  "com.iob.mobile": {
+    "bank": "Indian Overseas Bank",
+    "name": "IOB Mobile",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["iob", "indian overseas bank", "iob mobile"]
+  },
+  "com.IndianBank.mPassBook": {
+    "bank": "Indian Bank",
+    "name": "IndSMART",
+    "cert_hash_sha256": "FETCH_FROM_PLAY_STORE",
+    "aliases": ["indian bank", "indsmart", "ind smart"]
+  },
+  "com.kiya.mahaplus": {
+    "bank": "Bank of Maharashtra",
+    "name": "Mahamobile Plus",
+    "cert_hash_sha256": "c592eb91208ac6d7e6ffb153eea57ecb226e535cd99ed3c01a353be5c738f309",
+    "aliases": ["bank of maharashtra", "mahamobile", "maha bank"]
+  },
+  "com.hdfcbank.payzapp": {
+    "bank": "HDFC Bank",
+    "name": "PayZapp",
+    "cert_hash_sha256": "ca03ec881c6c1099cb1868c72b50a3442ac75e2386f906dfcd0783f90dc3633d",
+    "aliases": ["payzapp", "pay zapp", "hdfc payzapp"]
+  }
+}

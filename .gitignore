@@ -1,0 +1,12 @@
+@"
+venv/
+backend/venv/
+node_modules/
+__pycache__/
+*.pyc
+*.pkl
+data/samples/
+data/results/
+*.apk
+.env
+"@ | Out-File -Encoding utf8 .gitignore

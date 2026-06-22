@@ -1,0 +1,10 @@
+file,otp_theft,fake_ui,full_device_control,data_exfiltration,rat_c2,anti_analysis,obfuscation_score,num_permissions,num_dangerous_perms,num_network_indicators,impersonation_flag,Label
+0c397afa38e182d706ca6b3f80924668510bd219b991bfe52cc0b0da845cf2f5.apk,0,0,0,0,0,0.0,0.0,0,0,0,0,Malicious
+7e631e9f7791f4648f776419c020ce6c33071c3e195669dd473f1423f098d39d.apk,0,0,0,0,0,0.0,0.0,0,0,0,0,Malicious
+8af03cd6ef37b820bcfb85fc2cf605c451e2822bd07c22941f8677c198240176.apk,0,0,0,0,0,0.0,0.0,0,0,0,0,Malicious
+8c5520ff9277608007c52c2fd67deba6cfa0432f209a73fa62a567da196f10a4.apk,0,0,0,0,0,0.0,0.0,0,0,0,0,Malicious
+c7020e8ce4ddae9b7041b43415169e1a5f48abeb9fe57043139e92ac0d4d6d2d.apk,0,0,0,0,0,0.0,0.0,0,0,0,0,Malicious
+e0f530acc605475dc38c1bae9ecf9f7c94c80b8f24b695e3f8025dba1e8d5c22.apk,0,0,0,0,0,0.0,0.0,0,0,0,0,Malicious
+"com.google.android.apps.maps_26.21.03.916832833-1068590330_minAPI28(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk",0,0,0,0,0,0.0,0.0,0,0,0,0,Benign
+com.whatsapp_2.17.253-451895_minAPI10(armeabi)(nodpi)_apkmirror.com (1).apk,0,0,0,0,0,0.0,0.0,0,0,0,0,Benign
+"org.telegram.messenger_12.8.1-69162_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk",0,0,0,0,0,0.0,0.0,0,0,0,0,Benign
