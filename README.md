@@ -1,7 +1,6 @@
 # ASTRA
 
-A two-tier system for automated reverse engineering and risk scoring of fraudulent banking APKs, built for the PSB Cybersecurity, Fraud and AI Hackathon 2026, Problem Statement 1.
-
+A two-tier system for automated reverse engineering and risk scoring of fraudulent banking APKs.
 
 ## The Problem
 
